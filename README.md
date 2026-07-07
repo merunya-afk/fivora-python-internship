@@ -19,12 +19,12 @@ On Day 3, I implemented practical programs using **NumPy, Pandas, Matplotlib, an
 
 On Day 4, I performed exploratory data analysis (EDA) on a dataset using Python. I examined the dataset structure, handled missing values, analyzed data types, generated summary statistics, and explored relationships between variables using Pandas, Matplotlib, and Seaborn. This helped me gain insights into the data and understand the importance of data preprocessing and visualization.
 
+## 🚀 Day 5 – Business Insights and Data Analysis
+
+On Day 5, I performed business-oriented data analysis using Python. I explored the dataset to answer key business questions, identified trends and patterns, evaluated movie ratings and audience preferences, and generated meaningful insights using Pandas, Matplotlib, and Seaborn. This activity enhanced my analytical thinking and data visualization skills.
+
 ##  🚀 Day 6 - Data Preprocessing & Feature Engineering
 
 Completed data preprocessing on the employee dataset by performing data validation, handling inconsistencies, encoding categorical variables, scaling numerical features, and selecting relevant features for analysis.
 
 **Tools Used:** 🐼 Pandas | 🤖 Scikit-learn
-
-## 🚀 Day 5 – Business Insights and Data Analysis
-
-On Day 5, I performed business-oriented data analysis using Python. I explored the dataset to answer key business questions, identified trends and patterns, evaluated movie ratings and audience preferences, and generated meaningful insights using Pandas, Matplotlib, and Seaborn. This activity enhanced my analytical thinking and data visualization skills.
