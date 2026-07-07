@@ -5,7 +5,7 @@ Today marked the beginning of my internship journey at **Fivora Tech Solution, S
 Looking forward to learning more and improving my programming skills throughout this internship.
 #Internship #Day1 #Python #Programming #LearningJourney
 
-🚀 Internship - Day 2
+## 🚀 Day 2 - Python Libraries
 
 Today, I learned the fundamentals of NumPy, Pandas, Matplotlib, and Seaborn. I explored their commonly used functions, syntax, and practical examples for data manipulation and data visualization.
 
